@@ -1,0 +1,43 @@
+Reporting 1 scan chain (muxed_scan)
+ 
+Chain 1: chain0 
+  scan_in:      scan_in 
+  scan_out:     scan_out   
+  shift_enable: SE (active high) 
+  clock_domain: clk (edge: rise)
+  length: 33
+    bit 1 	valid_out_reg  <clk (rise)>  
+    bit 2 	y_reg[0]  <clk (rise)>  
+    bit 3 	y_reg[1]  <clk (rise)>  
+    bit 4 	y_reg[2]  <clk (rise)>  
+    bit 5 	y_reg[3]  <clk (rise)>  
+    bit 6 	y_reg[4]  <clk (rise)>  
+    bit 7 	y_reg[5]  <clk (rise)>  
+    bit 8 	y_reg[6]  <clk (rise)>  
+    bit 9 	y_reg[7]  <clk (rise)>  
+    bit 10 	y_reg[8]  <clk (rise)>  
+    bit 11 	y_reg[9]  <clk (rise)>  
+    bit 12 	y_reg[10]  <clk (rise)>  
+    bit 13 	y_reg[11]  <clk (rise)>  
+    bit 14 	y_reg[12]  <clk (rise)>  
+    bit 15 	y_reg[13]  <clk (rise)>  
+    bit 16 	y_reg[14]  <clk (rise)>  
+    bit 17 	y_reg[15]  <clk (rise)>  
+    bit 18 	y_reg[16]  <clk (rise)>  
+    bit 19 	y_reg[17]  <clk (rise)>  
+    bit 20 	y_reg[18]  <clk (rise)>  
+    bit 21 	y_reg[19]  <clk (rise)>  
+    bit 22 	y_reg[20]  <clk (rise)>  
+    bit 23 	y_reg[21]  <clk (rise)>  
+    bit 24 	y_reg[22]  <clk (rise)>  
+    bit 25 	y_reg[23]  <clk (rise)>  
+    bit 26 	y_reg[24]  <clk (rise)>  
+    bit 27 	y_reg[25]  <clk (rise)>  
+    bit 28 	y_reg[26]  <clk (rise)>  
+    bit 29 	y_reg[27]  <clk (rise)>  
+    bit 30 	y_reg[28]  <clk (rise)>  
+    bit 31 	y_reg[29]  <clk (rise)>  
+    bit 32 	y_reg[30]  <clk (rise)>  
+    bit 33 	y_reg[31]  <clk (rise)>  
+------------------------
+
